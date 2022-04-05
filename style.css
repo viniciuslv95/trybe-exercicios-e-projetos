@@ -1,0 +1,13 @@
+.center {
+    text-align: center;
+}
+
+li.list:hover {
+    background-color: green;
+}
+li.list:active {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.none {
+    list-style: none;
+}
