@@ -1,0 +1,20 @@
+table, th, td {
+  border: 1px solid black;
+}
+#odonto {
+ width: 300px;
+}
+#camarao {
+  width: 300px;
+}
+#soco {
+ width: 300px;
+}
+#padding {
+  padding: 5px 10px;
+  background-color: salmon;
+  color: aquamarine;
+}
+footer {
+  text-align: center;
+}
